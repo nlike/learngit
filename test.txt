@@ -1,1 +1,0 @@
-logging.info("Use x,y for click operation")
